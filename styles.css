@@ -32,3 +32,9 @@ h1 {
     color: #4CAF50;
     font-size: 2.5rem;
 }
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+}
